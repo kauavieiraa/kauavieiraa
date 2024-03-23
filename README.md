@@ -20,6 +20,6 @@ Technology, entrepreneurship and programming enthusiast.
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](vieirakaua@gmail.com)
 
-![download](https://github.com/kauavieiraa/kauavieiraa/assets/131157691/d02020f2-9d3a-443a-be67-3927a1222da2)
+![b4956770d793de6c0a33ebcce79c8095](https://github.com/kauavieiraa/kauavieiraa/assets/131157691/f26ed28d-5edf-49ab-a81e-7f3e1af567a5)
 
 
