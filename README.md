@@ -1,16 +1,20 @@
-### Hello, World!!  👋
+<h1 style="animation: bounce 1s infinite, colorchange 2s infinite;">Hello, World! 👋</h1>
 
-
-**kauavieiraa/kauavieiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I currently work at the company Flex in the production area.
 - 🌱 I am currently studying systems analysis and development.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-vieira-94304b266)
+
+![Kauã Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=kauavieiraa&layout=compact)
+
+### Tecnologias que uso no meu dia 
+
+<div style ="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
 
