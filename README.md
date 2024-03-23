@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 
 ![Kauã Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=kauavieiraa&layout=compact)
 
-### Tecnologias que uso no meu dia 
+### Technologies I use in my day
 
 <div style ="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Entusiasta de tecnologia, empreendedorismo e programação.
+Technology, entrepreneurship and programming enthusiast.
 
-### Contato:
+### Contact:
 E-mail: vieirakaua073@gmail.com
 
