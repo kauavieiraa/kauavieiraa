@@ -1,7 +1,5 @@
-<h1 style="animation: bounce 1s infinite, colorchange 2s infinite;">Hello, World! 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+World!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I currently work at the company Flex in the production area.
 - 🌱 I'm currently studying systems analysis and development at Facens University.
