@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 Technology, entrepreneurship and programming enthusiast.
 
 ### Contact:
-E-mail: vieirakaua073@gmail.com
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](vieirakaua@gmail.com)
+
+
 
