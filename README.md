@@ -2,7 +2,7 @@
 
 - 🔭 I currently work at the company Flex in the production area.
 - 🌱 I'm currently studying systems analysis and development at Facens University.
-- 👯 I’m looking to collaborate on ...
+- 👯 I'm looking to collaborate on projects.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-vieira-94304b266)
 
